@@ -8,4 +8,4 @@ streamlit.text('Jeffry')
 
 streamlit.text('Fulgencio')
 
-streamit('Test2')
+streamlit('Test2')
