@@ -7,3 +7,5 @@ streamlit.header('Test Header')
 streamlit.text('Jeffry')
 
 streamlit.text('Fulgencio')
+
+streamit('Test2')
