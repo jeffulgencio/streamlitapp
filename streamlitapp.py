@@ -10,4 +10,4 @@ streamlit.text('Fulgencio')
 
 streamlit.text('Test2')
 
-streamlit.text(':grinning:')
+streamlit.text('🥣')
