@@ -9,3 +9,5 @@ streamlit.text('Jeffry')
 streamlit.text('Fulgencio')
 
 streamlit.text('Test2')
+
+streamlit.text(':grinning:')
