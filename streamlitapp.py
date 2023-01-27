@@ -11,3 +11,5 @@ streamlit.text('Fulgencio')
 streamlit.text('Test2')
 
 streamlit.title('🥣')
+
+streamlit.header('👻🧟')
